@@ -10,7 +10,7 @@ For this project, our analytical task is to identify if there is a causal relati
 [Property Value: DP04 - Selected Housing Characteristics](https://data.census.gov/table/ACSDP5Y2021.DP04?q=DP04)
 
 
-This [poster](https://github.com/tuetkwanwing/Infrastructure-and-Displacement-in-Boston/blob/main/Poster_Livable%20Streets%20-%20Infrastructure%20and%20Displacement.pdf) includes, but not limited to, sections such as Project Summary, Libraries used in Python& Technical Skills for Data Processing & Key Takeaways.\
+This [poster](https://github.com/tuetkwanwing/Infrastructure-and-Displacement-in-Boston/blob/main/Poster_Livable%20Streets%20-%20Infrastructure%20and%20Displacement.pdf) includes, but not limited to, sections such as Project Summary, Libraries used in Python& Technical Skills for Data Processing & Key Takeaways.
 
 Click [Livable Streets: Bike Infrastructure & Displacement
 Project Deliverable 1](https://github.com/tuetkwanwing/Infrastructure-and-Displacement-in-Boston/blob/main/Livable_Streets_Bike_Infrastructure_Displacement_20231128.ipynb)) 
