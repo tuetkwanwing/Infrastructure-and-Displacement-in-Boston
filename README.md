@@ -18,7 +18,7 @@ In this notebook, we present our data, conduct preliminary analysis on each vari
   (3) What are the demographic and socioeconomic characteristics of neighborhoods where bike lanes are built?\\
 
 
-Click [Intersection of Transportation Infrastructure and Displacement]([https://github.com/tuetkwanwing/Infrastructure-and-Displacement-in-Boston/blob/main/Livable_Streets_Bike_Infrastructure_Displacement_20231128.ipynb](https://github.com/tuetkwanwing/Infrastructure-and-Displacement-in-Boston/blob/main/LivableStreets_Bike-Infrastructure-And-Displacement_Final-Report.pdf)https://github.com/tuetkwanwing/Infrastructure-and-Displacement-in-Boston/blob/main/LivableStreets_Bike-Infrastructure-And-Displacement_Final-Report.pdf)) for our final report.\
+Click [Intersection of Transportation Infrastructure and Displacement](https://github.com/tuetkwanwing/Infrastructure-and-Displacement-in-Boston/blob/main/Livable_Streets_Bike_Infrastructure_Displacement_20231128.ipynb](https://github.com/tuetkwanwing/Infrastructure-and-Displacement-in-Boston/blob/main/LivableStreets_Bike-Infrastructure-And-Displacement_Final-Report.pdf)https://github.com/tuetkwanwing/Infrastructure-and-Displacement-in-Boston/blob/main/LivableStreets_Bike-Infrastructure-And-Displacement_Final-Report.pdf) for our final report.\
  
 
  [Summarization Poster](https://github.com/tuetkwanwing/Infrastructure-and-Displacement-in-Boston/blob/main/Poster_Livable%20Streets%20-%20Infrastructure%20and%20Displacement.pdf)
